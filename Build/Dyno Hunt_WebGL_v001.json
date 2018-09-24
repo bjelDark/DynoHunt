@@ -1,0 +1,13 @@
+{
+"companyName": "bjelDark.com",
+"productName": "Dyno Hunt",
+"dataUrl": "Dyno Hunt_WebGL_v001.data.unityweb",
+"asmCodeUrl": "Dyno Hunt_WebGL_v001.asm.code.unityweb",
+"asmMemoryUrl": "Dyno Hunt_WebGL_v001.asm.memory.unityweb",
+"asmFrameworkUrl": "Dyno Hunt_WebGL_v001.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
